@@ -31,12 +31,11 @@ Business Insights & Strategic Recommendations
 
 
 ## Project Repository Files
-- **Dataset:** [`enriched_ecommerce_dataset.csv`](./enriched_ecommerce_dataset.csv) – Cleaned transactional dataset containing order details, customer segments, sales, and profit metrics.
-- **Python Pipeline:** [`Retail Performance Analytics.ipynb`](./Retail%20Performance%20Analytics.ipynb) – Python notebook used for data preprocessing, classification modeling, and aspect/sentiment analysis.
-- **Power BI Report File:** [`Retail Performance Analytics.pbix`](./Retail%20Performance%20Analytics.pbix) – The primary interactive multi-page Power BI dashboard.
-- **Dashboard Preview (PDF):** [`Retail Performance Analytics-Image .pdf`](./Retail%20Performance%20Analytics-Image%20.pdf) – High-resolution export of all 6 dashboard pages.
-- **Video Walkthrough:** [`Retail Performance Analytics-video.MP4`](./Retail%20Performance%20Analytics-video.MP4) – Complete video demonstration of interactive features and page navigation.
----
+- **Dataset:** [enriched_ecommerce_dataset.csv](enriched_ecommerce_dataset.csv) – Cleaned transactional dataset containing order details, customer segments, sales, and profit metrics.
+- **Python Pipeline:** [Retail Performance Analytics.ipynb](Retail%20Performance%20Analytics.ipynb) – Python notebook used for data preprocessing, classification modeling, and aspect/sentiment analysis.
+- **Power BI Report File:** [Retail Performance Analytics.pbix](Retail%20Performance%20Analytics.pbix) – The primary interactive multi-page Power BI dashboard.
+- **Dashboard Preview (PDF):** [Retail Performance Analytics-Image .pdf](Retail%20Performance%20Analytics-Image%20.pdf) – High-resolution export of all 6 dashboard pages.
+- **Video Walkthrough:** [Retail Performance Analytics-video.MP4](Retail%20Performance%20Analytics-video.MP4) – Complete video demonstration of interactive features and page navigation.
 
 ## Key Business Metrics
 - **Total Sales:** $5.87M
